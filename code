@@ -1,0 +1,33 @@
+<html lang="en">
+    <head>
+        <style>
+            *{
+                padding: 0;
+                margin: 0;
+            }
+            .header{
+                height: 120px;
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                border: 3px solid black;
+                background-color: rgb(63, 143, 143);
+            } 
+            .vaishnavimane{
+                margin-left: 10px;    
+            }
+        </style>
+      </head>
+    <body>
+          <div class="header-items"></div>
+          <div class="vaishnavimane"></div>
+        
+        <div class="header">
+            <div class="vaishnavimane">
+                <h2>vaishnavimane</h2>
+                <p>Lorem, ipsum dolor  In suscipit eaque quaerat recusandae iusto qui veniam hic porro veritatis, esse earum harum exercitationem ratione voluptatibus illo sint maxime tempore! A!</p>
+            </div>
+
+        </div>                   
+    </body>
+</html>
